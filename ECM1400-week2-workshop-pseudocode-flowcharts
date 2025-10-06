@@ -1,0 +1,21 @@
+1.
+take chicken, cross river, drop off chicken
+go back empty
+take corn, cross river, swap corn with chicken
+go back with chicken
+swap chicken with fox, cross river, drop off fox
+go back empty
+pick up chicken, cross river, drop off chicken
+done
+
+2.
+while bag still has chocolates in:
+    take out chocolate piece
+    if dark chocolate:
+        place in dark chocolate pile
+    else:
+        place in milk chocolate pile
+
+3.
+Algorithm - a set of instructions do be executed in a certain order
+Compiler - 
